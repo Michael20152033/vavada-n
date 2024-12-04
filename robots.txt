@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: https://res-mods.ru/
+Sitemap: https://res-mods.ru/sitemap.xml
